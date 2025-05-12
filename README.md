@@ -17,7 +17,8 @@
 
 The following diagram illustrates the dual-branch model comprising MiniFASNet and Fourier Supervision:
 
-![Architecture Diagram](images/architecture.png)
+<img src="architecture.png" alt="Architecture Diagram" width="600"/>
+
 
 ## 📁 Directory Structure
 ```
@@ -107,8 +108,8 @@ The model will output:
 | **MiniFASNetV2 (Ours)** | **0.081G** | **97.8%** | **97.8%**    | **20ms**    |
 
 ## 📊 Visual Outputs
-- ![OUTPUT](./home.png)
-- ![REGISTRATION PORTAL ](login.png)
+<img src="./home.png" alt="OUTPUT" width="500"/>
+<img src="login.png" alt="REGISTRATION PORTAL" width="500"/>
 
 Visualizations such as ROC curves and confusion matrices can be found in the `main/` file. These help compare model variants and evaluate classification behavior.
 
