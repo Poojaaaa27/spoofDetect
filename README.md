@@ -7,4 +7,7 @@ The system distinguishes between real and spoofed faces (e.g., photo, video, mas
 
 ---
 
-## 📁 Directory Structure
+## 📁 ### 1. Clone the Repository
+
+git clone https://github.com/yourusername/silent-face-anti-spoofing.git
+cd silent-face-anti-spoofing
