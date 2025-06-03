@@ -121,7 +121,7 @@ For further research, consider citing:
 ```bibtex
 @inproceedings{IEEE2025,
   title={Passive Detection of Spoofing Attacks in Facial Biometrics},
-  author={Pooja J, poojaa1627@gmail.com},
+  author={Pooja J, pj3485@srmist.edu.in.com},
   booktitle={International Conference on Advances in Computing,Communication and Applied Informatics(ACCAI-2025)},
   year={2025}
 }
